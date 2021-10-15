@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickMwazonga)](https://github.com/ErickMwazonga/github-readme-stats)
+[![Ericks GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickMwazonga)](https://github.com/ErickMwazonga/github-readme-stats)
+[![Ericks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErickMwazonga)](https://github.com/ErickMwazonga/github-readme-stats)
 
 # Social
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ErickMwazonga)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ErickMwazonga-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ErickMwazonga)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErickMwazonga)](https://github.com/ErickMwazonga/github-readme-stats)
 
 
 # Skills
