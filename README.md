@@ -1,7 +1,6 @@
 ### Jambo 👋
 
 [![Ericks GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickMwazonga)](https://github.com/ErickMwazonga/github-readme-stats)
-[![Ericks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime)](https://github.com/ErickMwazonga/github-readme-stats)
 
 # Social
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ErickMwazonga)
